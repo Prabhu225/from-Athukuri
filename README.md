@@ -7,13 +7,13 @@
 
 -----------
 
-Favourite dishes 
+##Favourite dishes 
 1. burger
 2. coke
 3. fired
 4. sandwich
 
-Places to visit near by
+##Places to visit near by
 - Durga temple
 - undavalli caves
 - kondapalli fort 
@@ -31,4 +31,16 @@ Music has the power to evoke emotions and moods. Whether it's joy, sadness, exci
 |"Eyy Bidda Idhi Naa Adda" |lyric are very different & good|Devi sri prasad                |
 |"Emai poyave"             |soul full melody              | Sid Sirram                     |
 |"Dosti"                   |Enhanting composition         |M.M.keeravani                   |
+
+----------
+
+##Favourite Quotes  
+
+>“Dream is not that which you see while sleeping it is something that does not let you sleep"
+>*- Dr.APJ Abdul kalam*
+
+>"Arise, awake and stop not till the goal is reached."
+>*- Swami Vivekananda*
+
+
 
