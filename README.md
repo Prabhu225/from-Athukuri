@@ -20,5 +20,5 @@ Places to visit near by
 - bhavani island
 
 ---
-Prabhu MyMedia<MyMedia.md>
+[MyMedia](https://github.com/Prabhu225/from-Athukuri/blob/main/MyMedia.md)
 ---
