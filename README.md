@@ -42,5 +42,9 @@ Music has the power to evoke emotions and moods. Whether it's joy, sadness, exci
 >"Arise, awake and stop not till the goal is reached."
 >*- Swami Vivekananda*
 
-
+-----
+```
+l = [-1, 3, -4, 5, 6, -9]
+l = [x if x >= 0 else 0 for x in l]
+```
 
