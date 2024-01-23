@@ -17,8 +17,18 @@ Places to visit near by
 - Durga temple
 - undavalli caves
 - kondapalli fort 
-- bhavani island
+- bhavani island 
 
 ---
 [MyMedia](https://github.com/Prabhu225/from-Athukuri/blob/main/MyMedia.md)
 ---
+## Songs Recommandations
+Music has the power to evoke emotions and moods. Whether it's joy, sadness, excitement, or nostalgia, songs have the ability to resonate with listeners on a deep emotional level.With the rise of the internet and streaming services, music has become more accessible globally. Artists from different parts of the world can now reach a diverse audience, contributing to a more interconnected music landscape.
+
+|Name                      |Reason                        |Creator                         |
+|--------------------------|------------------------------|--------------------------------|
+|"Chilipiga chusthavala"   |It is fell good song          | harris jayaraj                 |
+|"Eyy Bidda Idhi Naa Adda" |lyric are very different & good|Devi sri prasad                |
+|"Emai poyave"             |soul full melody              | Sid Sirram                     |
+|"Dosti"                   |Enhanting composition         |M.M.keeravani                   |
+
